@@ -17,7 +17,7 @@ function addTask() {
         }).showToast()
     } else {
         Toastify({
-            text: "Erro: preencha seus dados!",
+            text: "Preencha seus dados!",
             style: {
                 background: "red"
             }
